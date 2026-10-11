@@ -1,1 +1,1 @@
-{"name": "catboost_spatial", "metric": "quantile_quality_x100", "folds": [73.6, 73.94, 75.72, 76.4], "cv": 74.91, "std": 1.18}
+{"name": "catboost_spatial", "metric": "quantile_quality_x100", "folds": [74.02, 73.95, 75.81, 76.43], "cv": 75.05, "std": 1.09}
